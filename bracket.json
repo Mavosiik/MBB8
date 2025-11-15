@@ -17,7 +17,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T11:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {},
       "PointsToWin": 4
@@ -25,14 +25,70 @@
     {
       "ID": 5,
       "Team1Acronym": "10%B",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "ABAB",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4413454
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4423300
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 569113
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2352892
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4617072
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3513233
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3690812
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1731978
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 131891
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1993172
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1114721
+        }
+      ],
       "Current": false,
-      "Date": "2025-11-15T17:00:00+02:00",
+      "Date": "2025-11-15T12:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 100
@@ -43,37 +99,35 @@
     {
       "ID": 9,
       "Team1Acronym": "YUSU",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "TRAV",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T11:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 220
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 13,
       "Team1Acronym": "UNCL",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "CANW",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T11:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 320
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -84,55 +138,9 @@
       "Team2Score": 1,
       "Completed": true,
       "Losers": false,
-      "PicksBans": [
-        {
-          "Team": "Blue",
-          "Type": "Ban",
-          "BeatmapID": 4423300
-        },
-        {
-          "Team": "Red",
-          "Type": "Ban",
-          "BeatmapID": 4617072
-        },
-        {
-          "Team": "Red",
-          "Type": "Ban",
-          "BeatmapID": 569113
-        },
-        {
-          "Team": "Blue",
-          "Type": "Ban",
-          "BeatmapID": 4413454
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 3690812
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 3513233
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 131891
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 1993172
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 5068252
-        }
-      ],
+      "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T11:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 440
@@ -142,14 +150,14 @@
     {
       "ID": 23,
       "Team1Acronym": "FOTN",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "11TH",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T11:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 540
@@ -165,50 +173,9 @@
       "Team2Score": 0,
       "Completed": true,
       "Losers": false,
-      "PicksBans": [
-        {
-          "Team": "Red",
-          "Type": "Ban",
-          "BeatmapID": 3197550
-        },
-        {
-          "Team": "Blue",
-          "Type": "Ban",
-          "BeatmapID": 5068252
-        },
-        {
-          "Team": "Blue",
-          "Type": "Ban",
-          "BeatmapID": 4819009
-        },
-        {
-          "Team": "Red",
-          "Type": "Ban",
-          "BeatmapID": 5090562
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 131891
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 53822
-        },
-        {
-          "Team": "Red",
-          "Type": "Pick",
-          "BeatmapID": 4413454
-        },
-        {
-          "Team": "Blue",
-          "Type": "Pick",
-          "BeatmapID": 4617072
-        }
-      ],
+      "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T11:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 660
@@ -218,48 +185,95 @@
     {
       "ID": 31,
       "Team1Acronym": "SYBA",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "POHU",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T11:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 760
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 3,
       "Team1Acronym": "2PAC",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Score": 4,
+      "Team2Acronym": "ABAB",
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4423300
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3690812
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 569113
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 4617072
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3513233
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 53822
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1993172
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1731978
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4413454
+        }
+      ],
       "Current": false,
-      "Date": "2025-11-15T17:00:00+02:00",
+      "Date": "2025-11-15T12:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 210,
         "Y": 50
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 11,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "YUSU",
+      "Team1Score": 4,
+      "Team2Acronym": "UNCL",
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T17:00:00+02:00",
+      "Date": "2025-11-15T12:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 210,
@@ -270,49 +284,101 @@
     {
       "ID": 20,
       "Team1Acronym": "STEAM",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Score": 4,
+      "Team2Acronym": "11TH",
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T17:00:00+02:00",
+      "Date": "2025-11-15T12:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 210,
         "Y": 490
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 29,
-      "Team1Acronym": "CHIC",
-      "Team1Score": null,
-      "Team2Acronym": "NATS",
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "NATS",
+      "Team1Score": 4,
+      "Team2Acronym": "SYBA",
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T17:00:00+02:00",
+      "Date": "2025-11-15T12:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 210,
         "Y": 710
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 7,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "2PAC",
+      "Team1Score": 5,
+      "Team2Acronym": "YUSU",
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4423300
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3197550
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 1731978
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3690812
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 131891
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4413454
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 53822
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1993172
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4819009
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3513233
+        }
+      ],
       "Current": false,
-      "Date": "2025-11-15T19:00:00+02:00",
+      "Date": "2025-11-15T14:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 420,
@@ -322,13 +388,15 @@
     },
     {
       "ID": 25,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "STEAM",
+      "Team1Score": 5,
+      "Team2Acronym": "NATS",
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T19:00:00+02:00",
+      "Date": "2025-11-15T14:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 420,
@@ -338,18 +406,21 @@
     },
     {
       "ID": 15,
+      "Team1Acronym": "2PAC",
       "Team1Score": null,
+      "Team2Acronym": "STEAM",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-16T17:00:00+02:00",
+      "Date": "2025-11-16T12:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 630,
         "Y": 380
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -360,7 +431,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-16T19:00:00+02:00",
+      "Date": "2025-11-16T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 840,
@@ -373,10 +444,10 @@
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
-      "Losers": true,
+      "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-14T23:31:20.9526914+02:00",
+      "Date": "2025-11-16T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 840,
@@ -386,12 +457,13 @@
     {
       "ID": 17,
       "Team1Score": null,
+      "Team2Acronym": "WSPE",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2025-11-16T17:00:00+02:00",
+      "Current": true,
+      "Date": "2025-11-16T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1050,
@@ -401,29 +473,85 @@
     },
     {
       "ID": 8,
+      "Team1Acronym": "SPIN",
       "Team1Score": null,
+      "Team2Acronym": "THEP",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T19:00:00+02:00",
+      "Date": "2025-11-16T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1260,
         "Y": 160
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 26,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "WSPE",
+      "Team1Score": 5,
+      "Team2Acronym": "41",
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3690812
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 131891
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3513233
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4617072
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4819009
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1485507
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4423300
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1993172
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 5068252
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1731978
+        }
+      ],
       "Current": false,
-      "Date": "2025-11-15T19:00:00+02:00",
+      "Date": "2025-11-15T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1260,
@@ -433,30 +561,90 @@
     },
     {
       "ID": 12,
-      "Team1Score": null,
+      "Team1Acronym": "MEOW",
+      "Team1Score": 3,
       "Team2Acronym": "THEP",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T17:00:00+02:00",
+      "Date": "2025-11-15T17:20:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1470,
         "Y": 270
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 4,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "SPIN",
+      "Team1Score": 4,
+      "Team2Acronym": "ຂ້ອ?",
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 4423300
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 53822
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3513233
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3690812
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2352892
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 569113
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4413454
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 4617072
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1731978
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1485507
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 4644171
+        }
+      ],
       "Current": false,
-      "Date": "2025-11-15T17:00:00+02:00",
+      "Date": "2025-11-15T12:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1470,
@@ -466,13 +654,15 @@
     },
     {
       "ID": 21,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "WSPE",
+      "Team1Score": 4,
+      "Team2Acronym": "LITE",
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T17:00:00+02:00",
+      "Date": "2025-11-15T12:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1470,
@@ -482,31 +672,34 @@
     },
     {
       "ID": 30,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "JABU",
+      "Team1Score": 1,
+      "Team2Acronym": "41",
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T17:00:00+02:00",
+      "Date": "2025-11-15T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1470,
         "Y": 710
       },
+      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 32,
       "Team1Acronym": "PLS3",
-      "Team1Score": null,
+      "Team1Score": 1,
       "Team2Acronym": "41",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T15:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1680,
@@ -518,58 +711,55 @@
     {
       "ID": 28,
       "Team1Acronym": "JABU",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "WILD",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T14:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1680,
         "Y": 660
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 24,
       "Team1Acronym": "LITE",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "MEJI",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T15:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1680,
         "Y": 540
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 19,
       "Team1Acronym": "WSPE",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "PANI",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T14:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1680,
         "Y": 440
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
@@ -581,8 +771,8 @@
       "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Current": false,
+      "Date": "2025-11-15T11:00:00-03:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1680,
@@ -593,57 +783,54 @@
     {
       "ID": 10,
       "Team1Acronym": "MEOW",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "PUDZ",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T14:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1680,
         "Y": 220
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 6,
       "Team1Acronym": "ຂ້ອ?",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "DIDN",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T14:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1680,
         "Y": 100
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     },
     {
       "ID": 2,
       "Team1Acronym": "SPIN",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "NAPA",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2025-11-15T16:00:00+02:00",
+      "Date": "2025-11-15T14:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1680
       },
-      "WinnerColour": "Blue",
       "PointsToWin": 4
     }
   ],
@@ -1472,7 +1659,7 @@
           }
         }
       ],
-      "StartDate": "2025-11-15T17:00:00+02:00",
+      "StartDate": "2025-11-15T12:00:00-03:00",
       "Matches": [
         3,
         11,
@@ -2308,7 +2495,7 @@
           }
         }
       ],
-      "StartDate": "2025-11-15T19:00:00+02:00",
+      "StartDate": "2025-11-15T14:00:00-03:00",
       "Matches": [
         7,
         25,
@@ -3140,7 +3327,7 @@
           }
         }
       ],
-      "StartDate": "2025-11-16T17:00:00+02:00",
+      "StartDate": "2025-11-16T12:00:00-03:00",
       "Matches": [
         15,
         17
@@ -3970,7 +4157,7 @@
           }
         }
       ],
-      "StartDate": "2025-11-16T19:00:00+02:00",
+      "StartDate": "2025-11-16T14:00:00-03:00",
       "Matches": [
         16
       ]
@@ -4799,7 +4986,7 @@
           }
         }
       ],
-      "StartDate": "2025-11-15T16:00:00+02:00",
+      "StartDate": "2025-11-15T11:00:00-03:00",
       "Matches": [
         1,
         5,
